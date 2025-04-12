@@ -1,0 +1,3 @@
+pip install requests
+pip install rich
+pip install bs4
